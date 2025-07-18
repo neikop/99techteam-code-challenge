@@ -1,10 +1,6 @@
-# 99Tech Code Challenge #1 #
+# 99Tech Code Challenge #Frontend
 
-Note that if you fork this repository, your responses may be publicly linked to this repo.  
-Please submit your application along with the solutions attached or linked.   
+* I'm working on Problems 1, 2, and 3 for the Frontend role. Please check the solutions in the corresponding folders.
 
-It is important that you minimally attempt the problems, even if you do not arrive at a working solution.
-
-## Submission ##
-You can either provide a link to an online repository, attach the solution in your application, or whichever method you prefer.
-We're cool as long as we can view your solution without any pain.
+* For **Problem 2: Fancy Form**, I pushed the full source code using Vite. Here's the demo URL:
+  👉 [https://vite-template-sigma-seven.vercel.app](https://vite-template-sigma-seven.vercel.app)
